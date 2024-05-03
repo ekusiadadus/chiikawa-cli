@@ -2,6 +2,13 @@
 name = "chiikawa"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "🌸 ちいかわ！ 🌸"
+readme = "README.md"
+homepage = "https://github.com/ekusiadadus/chiikawa-cli"
+repository = "https://github.com/ekusiadadus/chiikawa-cli"
+keywords = ["cli", "Japan", "Rust"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
